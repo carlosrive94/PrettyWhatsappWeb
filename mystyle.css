@@ -1,0 +1,32 @@
+.avatar, .avatar-image{
+	border-radius: 5px !important;
+}
+
+.pane-list-user:before{
+	content: "Carlos Rivero";
+	color: #000;
+	font-family: 'Roboto',sans-serif;
+	position: absolute;
+	left: 70px;
+	top: 25px;
+}
+
+body{
+	background-color: #2A3132 !important;
+	background-image: none !important;
+}
+
+.app-wrapper::after {
+    background-color: #336B87 !important;
+	border-bottom: 2px solid #90AFC5;
+}
+
+
+.pane-chat-tile-container, .pane-preview{
+	background: none !important;
+	background-color: #336B87 !important;	
+}
+
+.pane-intro:after{
+	border-top: 6px solid #336B87 !important;
+}
