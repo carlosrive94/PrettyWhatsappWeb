@@ -17,14 +17,14 @@ body{
 }
 
 .app-wrapper::after {
-    background-color: #336B87 !important;
+	background-color: #336B87 !important;
 	border-bottom: 2px solid #90AFC5;
 }
 
 
 .pane-chat-tile-container, .pane-preview{
 	background: none !important;
-	background-color: #336B87 !important;	
+	background-color: rgba(51,107,135,0.3) !important;
 }
 
 .pane-intro:after{
